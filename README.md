@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alirezatireh
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Html & CSS
+- 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me ...
 
 <!---
